@@ -1,9 +1,30 @@
 # bootcamp_hw9_SQL
-Alison McCondichie - Homework 9 - SQL
+Alison Bedrosian
 
-The purpose of this project was to evaluate a data base set of employees hired at a specific time frame at a business. 
-The project called for data modeling: organizing tables with database diagrams, data engineering: making connections between tables with primary and foreign keys as well as correctly importing data into SQL from csv files, and data analysis: running queries in SQL to return the data that answers questions asked. 
+🗂️ Employee Database Analysis (SQL)
+This project explores a company’s employee database, focusing on hires within a specific time frame. It showcases data modeling, data engineering, and data analysis skills using SQL.
 
-I have provided SQL files for the data analysis and schemas portion of this project in addition to .png file of the database diagram and a .pdf of the data modeling documentation provided by QuickDBD.
+🔧 Project Objectives
+Data Modeling: Designed relational schemas and visualized table relationships using QuickDBD.
 
-I have screenshots all the results for each question query. 
+Data Engineering: Imported CSV files into SQL, defined primary and foreign keys, and structured normalized tables.
+
+Data Analysis: Wrote SQL queries to answer business questions and extract insights from the dataset.
+
+📁 Deliverables
+SQL scripts for schema creation and data analysis queries
+
+Database diagram (.png) created with QuickDBD
+
+Data modeling documentation (.pdf)
+
+Screenshots of SQL query results for reference
+
+💡 Key Skills Demonstrated
+Relational database design
+
+SQL joins, aggregations, filtering, and grouping
+
+Data cleaning and importing
+
+Translating business questions into analytical queries
